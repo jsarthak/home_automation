@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home_Automation_Mark1</string>
+    <string name="error_header">Aww, Snap!</string>
+    <string name="error_desc">There was an error connecting to device.\nPlease make sure that the device is still working.\nHere are a few things that you can try:\n1. Try restarting the device/app.\n2. Make sure the device is still in range\n3. Reset the device or smartphone.\nor try again after some time...</string>
+
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="dummy_button">Get Started</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
